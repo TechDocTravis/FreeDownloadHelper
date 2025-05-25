@@ -4,10 +4,10 @@ body:
       placeholder: Please be specific and polite :)
       label: Your question
     validations:
-      required: true
+      required: False
   - type: textarea
     validations:
-      required: true
+      required: False
     attributes:
       label: Addon & CoApp version and details
       description: |
